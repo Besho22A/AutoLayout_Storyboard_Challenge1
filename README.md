@@ -25,7 +25,7 @@ No SwiftUI. No external libraries. Just me and the storyboard 💪
 
 | iPhone 11 pro |IPad 13|
 |----------|------------|
-| <img src="Login.png" width="200"/> |<img src="LoginIPad.png" width = "200"/> |
+ <img src="Login.png" width="200"/>  <img src="LoginIPad.png" width = "400"/> 
 
 
 ---
