@@ -23,9 +23,9 @@ No SwiftUI. No external libraries. Just me and the storyboard 💪
 
 ## 📸 Screenshots
 
-| iPhone SE | iPhone 14 |
+| iPhone 11 pro ||
 |----------|------------|
- <img src="Login/se.png" width="200"/> 
+ <img src="Login.png" width="200"/> 
 
 
 ---
